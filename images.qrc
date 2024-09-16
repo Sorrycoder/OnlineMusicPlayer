@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/about.png</file>
+        <file>images/quit.png</file>
+        <file>images/skin.png</file>
+        <file>images/icon-last.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/play-next.png</file>
+        <file>images/play-previous.png</file>
+        <file>images/sound-on.png</file>
+        <file>images/close.png</file>
+        <file>images/sound-off.png</file>
+        <file>images/delete.png</file>
+        <file>images/repeat_off.png</file>
+        <file>images/music_player.png</file>
+        <file>images/backgroundSetting.png</file>
+        <file>images/defaultBackground.png</file>
+        <file>images/skins/skin-1.jpg</file>
+        <file>images/min.png</file>
+        <file>images/single.png</file>
+        <file>images/list.png</file>
+        <file>images/deleteitem.png</file>
+    </qresource>
+</RCC>
